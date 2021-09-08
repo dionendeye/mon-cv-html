@@ -1,0 +1,37 @@
+
+*
+{
+    font-size: large;
+}
+body
+{
+  background-color: cornsilk;
+}
+h1
+{
+  color: rgb(47, 0, 255);  
+  font-size: 25px; 
+}  
+a:hover
+{
+    color: brown;
+}
+
+#photo
+{
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0px;
+  padding-left: 50px;
+}
+p1
+{
+  color: blue;
+}
+.partie1
+{
+   background-color: rgb(240, 173, 150);
+   width: 500px;
+   margin: 10px;
+}
